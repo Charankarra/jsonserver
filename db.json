@@ -10,8 +10,8 @@
       "CreatedDate" : "Thu Jan 03 08:14:19 GMT 2019"
     },
     {
-      "id" :2,
-      "SystemGeneratedNumber": 1,
+      "id" :1,
+      "SystemGeneratedNumber": 2,
       "Country": "SG",
       "CustomerNamtionalID": "S1655666A",
       "ProductorBundleProduct" : "CASA",
@@ -19,8 +19,8 @@
       "CreatedDate" : "Thu Jan 03 08:14:19 GMT 2019"
     },
     {
-     "id" :3,
-      "SystemGeneratedNumber": 1,
+     "id" :1,
+      "SystemGeneratedNumber": 3,
       "Country": "SG",
       "CustomerNamtionalID": "S1655666A",
       "ProductorBundleProduct" : "CASA",
