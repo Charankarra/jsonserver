@@ -1,11 +1,29 @@
 {
-  "posts": [
+  "docdetails": [
     {
-      "id": 1,
-      "title": "hello"
+      "System Generated Number": 1,
+      "Country": "SG",
+      "Customer Namtional ID": "S1655666A",
+      "Product or Bundle Product" : "CASA",
+      "Document Type " : "Others"
+      "Created Date" : "Thu Jan 03 08:14:19 GMT 2019";
+    },
+    {
+      "System Generated Number": 2,
+      "Country": "SG",
+      "Customer Namtional ID": "S1655666A",
+      "Product or Bundle Product" : "CASA",
+      "Document Type " : "Others"
+      "Created Date" : "Thu Jan 03 08:14:19 GMT 2019";
+    },
+    {
+      "System Generated Number": 3,
+      "Country": "SG",
+      "Customer Namtional ID": "S1655666A",
+      "Product or Bundle Product" : "CASA",
+      "Document Type " : "Others"
+      "Created Date" : "Thu Jan 03 08:14:19 GMT 2019";
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    
+  ]
 }
