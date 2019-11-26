@@ -2,30 +2,30 @@
   "posts": [
     { 
       "id" :1,
-      "System Generated Number": 1,
+      "SystemGeneratedNumber": 1,
       "Country": "SG",
-      "Customer Namtional ID": "S1655666A",
-      "Product or Bundle Product" : "CASA",
-      "Document Type" : "Others",
-      "Created Date" : "Thu Jan 03 08:14:19 GMT 2019"
+      "CustomerNamtionalID": "S1655666A",
+      "ProductorBundleProduct" : "CASA",
+      "DocumentType" : "Others",
+      "CreatedDate" : "Thu Jan 03 08:14:19 GMT 2019"
     },
     {
       "id" :2,
-      "System Generated Number": 2,
+      "SystemGeneratedNumber": 1,
       "Country": "SG",
-      "Customer Namtional ID": "S1655666A",
-      "Product or Bundle Product" : "CASA",
-      "Document Type" : "Others",
-      "Created Date" : "Thu Jan 03 08:14:19 GMT 2019"
+      "CustomerNamtionalID": "S1655666A",
+      "ProductorBundleProduct" : "CASA",
+      "DocumentType" : "Others",
+      "CreatedDate" : "Thu Jan 03 08:14:19 GMT 2019"
     },
     {
-      "id" :3,
-      "System Generated Number": 3,
+     "id" :3,
+      "SystemGeneratedNumber": 1,
       "Country": "SG",
-      "Customer Namtional ID": "S1655666A",
-      "Product or Bundle Product" : "CASA",
-      "Document Type" : "Others",
-      "Created Date" : "Thu Jan 03 08:14:19 GMT 2019"
+      "CustomerNamtionalID": "S1655666A",
+      "ProductorBundleProduct" : "CASA",
+      "DocumentType" : "Others",
+      "CreatedDate" : "Thu Jan 03 08:14:19 GMT 2019"
     }
     
   ],
