@@ -1,7 +1,7 @@
 {
   "posts": [
     { 
-      "id" :1,
+      "id" :SG,
       "SystemGeneratedNumber": 1,
       "Country": "SG",
       "CustomerNamtionalID": "S1655666A",
@@ -10,7 +10,7 @@
       "CreatedDate" : "Thu Jan 03 08:14:19 GMT 2019"
     },
     {
-      "id" :1,
+      "id" :SG,
       "SystemGeneratedNumber": 2,
       "Country": "SG",
       "CustomerNamtionalID": "S1655666A",
@@ -19,7 +19,7 @@
       "CreatedDate" : "Thu Jan 03 08:14:19 GMT 2019"
     },
     {
-     "id" :1,
+     "id" :SG,
       "SystemGeneratedNumber": 3,
       "Country": "SG",
       "CustomerNamtionalID": "S1655666A",
