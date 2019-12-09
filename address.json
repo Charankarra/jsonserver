@@ -5,9 +5,10 @@
      "city": "Hyderabad', 
      "state": "Telangana",
     },
-    {"firstname": "Prasant", 
-     "lastname": "Pilaparti" ,
-     "city":"Vizag" , 
+    {
+     "firstname": "Prasant", 
+     "lastname": "Pilaparti",
+     "city":"Vizag", 
      "state": "Andra Pradesh",
     }
     
