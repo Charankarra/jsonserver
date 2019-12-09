@@ -3,13 +3,12 @@
       "firstname": "Charan", 
      "lastname": "Karra", 
      "city": "Hyderabad', 
-     "state": "Telangana"
+     "state": "Telangana",
     },
-    {"firstname": 
-     "Prasant", "lastname": 
-     "Pilaparti" ,"city": 
-     "Vizag" , 
-     "state": "Andra Pradesh"
+    {"firstname": "Prasant", 
+     "lastname": "Pilaparti" ,
+     "city":"Vizag" , 
+     "state": "Andra Pradesh",
     }
     
   ]
