@@ -1,5 +1,15 @@
 [
-    {firstname: 'Charan', lastname: 'Karra', city: 'Hyderabad', state: 'Telangana'},
-    {firstname: 'Prasant', lastname: 'Kilaparti', city: 'Vizag' , state: 'Andra Pradesh'},
-    {firstname: 'Nidhi', lastname: 'Chandra', city: 'Delhi', state: 'UP'},
+    {
+      "firstname": "Charan", 
+     "lastname": "Karra", 
+     "city": "Hyderabad', 
+     "state": "Telangana"
+    },
+    {"firstname": 
+     "Prasant", "lastname": 
+     "Pilaparti" ,"city": 
+     "Vizag" , 
+     "state": "Andra Pradesh"
+    }
+    
   ]
